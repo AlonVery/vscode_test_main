@@ -15,7 +15,6 @@ func BubbleSort(arr []int) []int {
 	}
 	return arr
 }
-
 func main() {
 	arr := []int{64, 34, 25, 12, 22, 11, 90}
 	fmt.Println("Original array:", arr)
