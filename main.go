@@ -24,5 +24,4 @@ func main() {
 	sortedArr := BubbleSort(arr)
 	fmt.Println("Sorted array:", sortedArr)
 
-	fmt.Println("testing changed with git command in terminal")
 }
