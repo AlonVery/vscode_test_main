@@ -13,6 +13,9 @@ func BubbleSort(arr []int) []int {
 			}
 		}
 	}
+	if len(arr) < 4 {
+		fmt.Print("hello world")
+	}
 	return arr
 }
 func main() {
